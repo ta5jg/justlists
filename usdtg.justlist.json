@@ -1,19 +1,20 @@
 {
   "name": "TetherGround Token List",
-  "timestamp": "2025-05-11T19:30:00+00:00",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreidmrotlmuxjooihz4omwosupptt43apwu7ps5onuizpetdonp7f3u",
+  "timestamp": 1715457000000,
   "tokens": [
     {
-      "chainId": 728126428,
+      "chainId": 1,
       "address": "TEpGiLGNB7W9W26LbvtU9wdukrLgLZwFgr",
       "name": "TetherGround USD",
       "symbol": "USDTg",
       "decimals": 6,
       "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreidmrotlmuxjooihz4omwosupptt43apwu7ps5onuizpetdonp7f3u"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
