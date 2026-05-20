@@ -1,0 +1,20 @@
+{
+  "name": "Tactical Vanguard Raids Official List",
+  "logoURI": "https://sapphire-select-skunk-292.mypinata.cloud/ipfs/bafkreicyxcosacibcog3h3ak6tgmf4tnnotg4mdtcfsjmwp4mldospk2vq",
+  "timestamp": 1779238500000,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "address": "TXbYaAHVyR19MUrnm8mKng4UuNpNYMEGHi",
+      "name": "Tactical Vanguard Raids",
+      "symbol": "TVRa",
+      "decimals": 18,
+      "logoURI": "https://sapphire-select-skunk-292.mypinata.cloud/ipfs/bafkreicyxcosacibcog3h3ak6tgmf4tnnotg4mdtcfsjmwp4mldospk2vq",
+      "type": "TRC20"
+    }
+  ]
+}
